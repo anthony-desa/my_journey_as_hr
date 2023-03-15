@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.71.29339.0%0D%0A%0D%0A00:00:00.042%20--%3E%2000:00:05.554%0D%0A%E2%80%8BManagers%20will%20also%20be%20able%20to%20view%20their%20team\u0027s%20compensation%20information,%20which%20saves%20you%20time.%0D%0A%0D%0A"}')

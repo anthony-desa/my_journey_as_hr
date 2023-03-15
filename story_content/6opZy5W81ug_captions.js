@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.71.29339.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.770%0D%0A%20You%20can%20analyze%20the%20employee%E2%80%99s%20compensation%20data%20and%20respective%20pay%20positioning.%0D%0A%0D%0A"}')

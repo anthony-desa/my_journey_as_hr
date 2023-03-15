@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.71.29339.0%0D%0A%0D%0A00:00:00.138%20--%3E%2000:00:04.692%0D%0AClick%20on%20the%20information%20to%20discover%20why%20Offboarding%20data%20is%20useful%20for%20HR.%0D%0A%0D%0A"}')
